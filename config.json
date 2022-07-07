@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "796263552771817472",
+        "token": "TOKEN",
+        "prefix": ".",
+        "BotStatus": "BoranGkdn was here ❤️",
+        "BotFooter": "BoranGkdn was here ❤️",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "BAN YETKILISI ID",
+            "log": "BAN ",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "JAİL YETKILISI ID",
+            "roles": "JAİLED ROL ID",
+            "log": "JAİL LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "MUTE YETKILISI ID",
+            "roles": "MUTED ROL ID",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "VOİCE MUTE YETKILISI ID",
+            "log": "VOİCE MUTE LOG ID",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "UYARI YETKILISI ID",
+            "log": "UYARI LOG ID"
+        },
+        "transport": {
+            "staff": "TAŞIYICI YETKILISI ID"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "TAG LOG ID",
+        "rollog": "ROL LOG ID",
+        "messagelog": "MESAJ LOG ID",
+        "seslog": "SES LOG ID"
+    },
+    "roles": {
+        "booster": "BOOSTER ROL ID",
+        "vip": "VIP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "SES KANALI ID"
+    },
+    "kategoriler": {
+        "publickategorisi": "PUBLİC KATEGORISI ID"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROL ID",
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "botcommands": "BOT COMMANDS ROL ID (.VİP .SPONSOR GİBİ)",
+        "staff": "REGİSTER ROL ID",
+        "enaltyetkilirolü": "EN ALT YETKİLİ PERMİ İD (TİTANS OF BORANGKDN GİBİ)",
+        "GuilDTag": "SUNUCU TAGI",
+        "GuildDiscrim": "SUNUCU ETİKET TAGI # OLMADAN YAZ (YOKSA BOŞ BIRAK)"
+    },
+    "Guild": {
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU ADI",
+        "GuildOwnerRole": ["SUNUCU OWNER ROL 1", "SUNUCU OWNER ROL 2"]
+    },
+    "emojis": {
+        "tada": "CEKİLİS EMOJİSİ ID",
+        "yes": "ONAY EMOJİSİ ID",
+        "no": "RED EMOJİSİ ID"
+    },
+        "buttons": {
+            "giveaway": "ÇEKİLİŞ KATILIMCISI ROLU ID",
+            "activity": "ETKİNLİK KATILIMCISI ROLU ID"
+        }
+    }
